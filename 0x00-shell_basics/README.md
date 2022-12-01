@@ -1,1 +1,1 @@
-A directory readme
+shell permissions readme
